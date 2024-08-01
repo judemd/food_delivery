@@ -1,6 +1,3 @@
-# ml_pipeline_template
-Core Template
-
 1. Create a new Environment
 conda create -p env python=3.12
 
